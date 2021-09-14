@@ -1,4 +1,4 @@
-#Free calculator
+#Premium calculator
 def add(a,b):
     return a+b
 
